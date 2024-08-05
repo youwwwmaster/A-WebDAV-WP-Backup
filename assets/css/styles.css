@@ -1,0 +1,31 @@
+.notification {
+    font-weight: bold;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#webdav-wp-backup-main-notifications, 
+#webdav-connection-notifications, 
+#ftp-connection-notifications, 
+#save-settings-notifications {
+    margin-bottom: 20px;
+}
+
+.backup-set {
+    margin-bottom: 20px;
+}
+
+.backup-set h3 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.backup-set ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.backup-set li {
+    margin-bottom: 5px;
+}
